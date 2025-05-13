@@ -1,0 +1,1 @@
+const botoes = document.querySelector( ".botao");
