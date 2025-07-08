@@ -5,8 +5,8 @@
     -ms-grid-row-span: hsl(318, 100%, 67%);
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --botao-inativo: argba(40, 28, 173, 0.5);
+    --texto-fundo: rgba(51, 46, 109, 0.3);
 }
 
 body {
