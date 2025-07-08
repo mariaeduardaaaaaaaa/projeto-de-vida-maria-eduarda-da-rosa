@@ -6,7 +6,7 @@
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: argba(40, 28, 173, 0.5);
-    --texto-fundo: rgba(51, 46, 109, 0.3);
+    --texto-fundo: rgba(38, 19, 240, 0.3);
 }
 
 body {
